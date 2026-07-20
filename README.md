@@ -1,3 +1,11 @@
+## Revenue by Card Category
+
+![Revenue by Card Category](Images/revenue_by_card_category.png)
+
+## Revenue Trend Over Time
+
+![Revenue Trend](Images/revenue_trend.png)
+
 # Credit Card Revenue Analysis
 
 ## Project Overview
