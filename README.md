@@ -1,5 +1,3 @@
-
-
 # Credit Card Revenue Analysis
 
 ## Project Overview
@@ -55,14 +53,6 @@ Visualized revenue evolution across time periods to detect growth patterns.
 
 Full analysis available on Kaggle:  
 [https://www.kaggle.com/code/andrebia/credit-card-revenue-analysis]
-
----
-
-## Certificate
-
-Full analysis available on Kaggle:  
-[https://www.kaggle.com/code/andrebia/credit-card-revenue-analysis]
-
 
 ---
 
