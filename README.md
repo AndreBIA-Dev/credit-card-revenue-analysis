@@ -1,10 +1,4 @@
-## Revenue by Card Category
 
-![Revenue by Card Category](Images/revenue_by_card_category.png)
-
-## Revenue Trend Over Time
-
-![Revenue Trend](Images/revenue_trend.png)
 
 # Credit Card Revenue Analysis
 
@@ -63,6 +57,16 @@ Full analysis available on Kaggle:
 [https://www.kaggle.com/code/andrebia/credit-card-revenue-analysis]
 
 ---
+
+## Certificate
+
+Full analysis available on Kaggle:  
+[https://www.kaggle.com/code/andrebia/credit-card-revenue-analysis]
+
+
+---
+
+
 
 ## Author
 
